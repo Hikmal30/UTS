@@ -1,0 +1,10 @@
+service\BeliObatService.class
+service\DokterService.class
+service\Service.class
+app\KlinikApp.class
+model\Pasien.class
+service\CheckupService.class
+factory\ServiceFactory.class
+main\Main.class
+service\KonsultasiService.class
+model\Transaksi.class
